@@ -1,0 +1,10 @@
+export const editIcon = require("../Assets/editIcon.png");
+export const logoImg = require("../Assets/logo.png");
+export const fbIcon = require("../Assets/fb_icon.png");
+export const instagramIcon = require("../Assets/instagram_icon.png");
+export const twitterIcon = require("../Assets/twitter_icon.png");
+export const linkdinIcon = require("../Assets/linkdin_icon.png");
+export const emailIcon = require("../Assets/email_icon.png");
+export const phoneIcon = require("../Assets/phone-icon.png");
+export const locationIcon = require("../Assets/location_icon.png");
+export const loginImage = require("../Assets/login_image.png");
